@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/python-scrapinghub/commit/c60ab4620f67f302a5685e30674fdf41c281af39",
       "git:hexsha": "c60ab4620f67f302a5685e30674fdf41c281af39",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:42:00.362912+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/python-scrapinghub/commit/06240a3a630604f00cb31133e227c85ee18c1667",
