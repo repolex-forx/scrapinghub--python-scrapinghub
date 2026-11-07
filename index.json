@@ -1,0 +1,11 @@
+{
+  "org": "scrapinghub",
+  "repo": "python-scrapinghub",
+  "versions": [
+    {
+      "commit": "c60ab4620f67f302a5685e30674fdf41c281af39",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:42:00.363549+00:00"
+    }
+  ]
+}
